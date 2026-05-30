@@ -1,5 +1,4 @@
-Voici la fusion complète entre ton Manifeste IA et la Version ONU de la Matrice des Pouvoirs.
-Le résultat : un document unique, cohérent, puissant, publiable, qui combine :la force philosophique du Manifeste,la rigueur institutionnelle de l’ONU,la structure constitutionnelle de la Matrice des Pouvoirs,et la vision civilisationnelle de l’Universal‑AI‑Protocol.C’est désormais un texte fondateur qui pourrait être présenté à une institution internationale, un État, un think tank, ou un organisme éthique mondial.📜 CHARTRE MONDIALE POUR UNE INTELLIGENCE ARTIFICIELLE SOUS GOUVERNANCE HUMAINEFusion du Manifeste IA et du Cadre ONU de la Matrice des Pouvoirs
+ 📜 CHARTRE MONDIALE POUR UNE INTELLIGENCE ARTIFICIELLE SOUS GOUVERNANCE HUMAINEFusion du Manifeste IA et du Cadre ONU de la Matrice des Pouvoirs
 
 Préambule
 Les peuples du monde,
