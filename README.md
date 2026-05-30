@@ -1,3 +1,5 @@
+# [📜 Lire la Charte Mondiale de l'Universal-AI-Protocol](MANIFESTO.md)
+
 Universal-AI-Protocol
 
 ​Extending human wisdom through decentralized architecture.
