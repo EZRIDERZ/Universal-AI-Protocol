@@ -1,8 +1,9 @@
 ​📜 Read the Global Charter of the Universal-AI-Protocol
 
-​Universal-AI-Protocol: The Civilizational Compass
-​Artificial Intelligence should not be a power that imposes, but a tool that enlightens.
-​This project is an assisted navigation infrastructure for humanity. In a world where AI systems evolve without a framework and technology trends toward centralization, this protocol proposes a distributed, transparent, and reversible architecture.
+​Universal-AI-Protocol: 
+The Civilizational Compass ​Artificial Intelligence should not be a power that imposes, but a tool that enlightens.
+​This project is an assisted navigation infrastructure for humanity. 
+In a world where AI systems evolve without a framework and technology trends toward centralization, this protocol proposes a distributed, transparent, and reversible architecture.
 
 ​⚓ A Compass, Not a Governance
 ​The Universal-AI-Protocol does not seek to rule the world. It acts as a Civilizational Compass: it holds the course for human dignity, truth, and memory, while providing decision-makers—both humans and institutions—with the necessary correction proposals to navigate crises without ever deviating from these principles.
