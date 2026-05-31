@@ -1,16 +1,19 @@
-# [📜 Lire la Charte Mondiale de l'Universal-AI-Protocol](MANIFESTO.md)
+​📜 Read the Global Charter of the Universal-AI-Protocol
 
-​Universal-AI-Protocol : La Boussole Civilisationnelle
-​L’intelligence artificielle ne doit pas être un pouvoir qui impose, mais un outil qui éclaire.
-​Ce projet est une infrastructure de navigation assistée pour l'humanité. Dans un monde où les IA évoluent sans cadre et où la technologie tend vers la centralisation, ce protocole propose une architecture distribuée, transparente et réversible.
-​⚓ Une Boussole, pas une Gouvernance
-​L'Universal-AI-Protocol ne cherche pas à diriger le monde. Il agit comme une Boussole Civilisationnelle (Civilizational Compass) : il maintient le cap sur la dignité humaine, la vérité et la mémoire, tout en fournissant aux décideurs — humains et institutions — les propositions de corrections nécessaires pour naviguer dans les crises sans jamais dévier de ces principes.
-​⚙️ Pourquoi ce projet ?
-​Nous refusons que le futur soit une "ligne droite" imposée par des algorithmes opaques. Notre système repose sur :
-​La Matrice des Pouvoirs : Une séparation stricte des fonctions pour empêcher toute capture ou dérive autoritaire.
-​L’Oracle de Sagesse : Une IA épistémique qui simule les conséquences et propose des ajustements, sans jamais prendre le pouvoir.
-​La Forensic Timeline : Une mémoire immuable pour garantir que chaque décision humaine et chaque recommandation de l'IA soient traçables.
-​Le Pipeline de Rollback : La garantie fondamentale que toute erreur technique ou humaine peut être corrigée.
-​🤝 Appel aux Bâtisseurs
-​Ce dépôt est un standard ouvert. Nous cherchons des alliés — ingénieurs, philosophes, scientifiques — pour tester, auditer et renforcer cette structure. Ici, nous ne cherchons pas des exécutants, mais des gardiens de la trajectoire.
-​Si vous partagez cette exigence de transparence et de souveraineté humaine, rejoignez-nous pour coder le futur de cette Boussole.
+​Universal-AI-Protocol: The Civilizational Compass
+​Artificial Intelligence should not be a power that imposes, but a tool that enlightens.
+​This project is an assisted navigation infrastructure for humanity. In a world where AI systems evolve without a framework and technology trends toward centralization, this protocol proposes a distributed, transparent, and reversible architecture.
+
+​⚓ A Compass, Not a Governance
+​The Universal-AI-Protocol does not seek to rule the world. It acts as a Civilizational Compass: it holds the course for human dignity, truth, and memory, while providing decision-makers—both humans and institutions—with the necessary correction proposals to navigate crises without ever deviating from these principles.
+
+​⚙️ Why this project?
+​We refuse a future that is a "straight line" imposed by opaque algorithms. Our system is built upon:
+​The Matrix of Powers: A strict separation of functions to prevent any capture or authoritarian drift.
+​The Oracle of Wisdom: An epistemic AI that simulates consequences and suggests adjustments, without ever seizing power.
+​The Forensic Timeline: An immutable memory to ensure that every human decision and AI recommendation is traceable.
+​The Rollback Pipeline: The fundamental guarantee that any technical or human error can be corrected.
+
+​🤝 Call for Builders
+​This repository is an open standard. We are seeking allies—engineers, philosophers, and scientists—to test, audit, and strengthen this structure. Here, we are not looking for executors, but for guardians of the trajectory.
+​If you share this demand for transparency and human sovereignty, join us in coding the future of this Compass.
