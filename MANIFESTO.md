@@ -1,4 +1,10 @@
-​📜 CHARTE MONDIALE POUR UNE INTELLIGENCE ARTIFICIELLE SOUS GOUVERNANCE HUMAINE
+# 📜 MANIFESTO: Universal-AI-Protocol
+*For a civilization that chooses its future instead of enduring it*
+
+---
+
+## 🇫🇷 Version Française
+📜 CHARTE MONDIALE POUR UNE INTELLIGENCE ARTIFICIELLE SOUS GOUVERNANCE HUMAINE
 
 ​Pour une civilisation qui choisit son futur au lieu de le subir
 
@@ -50,3 +56,37 @@ un langage commun
 
 ​12. Conclusion : choisir notre futur
 ​Nous ne construisons pas une technologie, nous construisons un cadre civilisationnel. Ce système est une invitation à coder, à débattre, à auditer et à bâtir. L’IA est un outil ; l’humanité reste la mesure de toute chose.
+
+---
+
+## 🇬🇧 English Version
+*(Voici la traduction pour la partie anglaise)*
+
+## CHARTER FOR HUMAN-GOVERNED ARTIFICIAL INTELLIGENCE
+
+### Preamble
+The peoples of the world, conscious that Artificial Intelligence constitutes a power unprecedented in human history, recognizing that this power can enrich or threaten human dignity, and affirming that humanity must remain the source, the measure, and the end of all intelligence, declare the need for a civilizational framework ensuring that AI remains a tool, never a master. 
+
+This Charter establishes the **Matrix of Powers**, a global architecture of distributed, transparent, and reversible governance.
+
+### 1. AI is not a tool: it is a power
+AI influences decisions, behaviors, institutions, economies, and narratives. It carries the values and intentions of its designers. We refuse to let this power concentrate; it must remain under distributed human control.
+
+### 2. Foundational Principle: No AI above humanity
+AI may be powerful, useful, and creative, but it must never be opaque, uncontrollable, irreversible, or politically autonomous. It remains subordinated to human governance.
+
+### 3. The Matrix of Powers
+The Matrix rests on eight complementary entities:
+* **Central AI:** Limited executive engine, no strategic autonomy.
+* **Oracle of Wisdom:** Epistemic power. It simulates consequences, enlightens actors, and archives divergences.
+* **Permanent Audit DAO:** Citizen power ensuring transparency.
+* **Senate of Sages:** Ethical power defending human dignity.
+* **Council of the Candid:** Popular power ensuring common sense.
+* **Sentinel AIs:** Immune power detecting drifts.
+* **Forensic Timeline:** Immutable power of memory.
+* **Rollback Pipeline:** Power of reversibility.
+
+### 4. The Oracle of Wisdom: The Civilizational Compass
+The Oracle acts as a **Compass**. It does not constrain; it enlightens. In case of divergence between human decisions and fundamental principles, it proposes corrections based on simulation. It ensures AI remains a scientific tool, not an instrument of power.
+
+[... ajouter la suite de la traduction ...]
