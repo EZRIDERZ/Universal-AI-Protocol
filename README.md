@@ -1,4 +1,4 @@
-​📜 Read the Global Charter of the Universal-AI-Protocol
+[​📜 Read the Global Charter of the Universal-AI-Protocol] 
 
 ​Universal-AI-Protocol: 
 The Civilizational Compass ​Artificial Intelligence should not be a power that imposes, but a tool that enlightens.
