@@ -1,5 +1,7 @@
-​📜 Read the Global Charter of the Universal-AI-Protocol
-​Universal-AI-Protocol: The Civilizational Compass
+​[📜 Read the Global Charter of the Universal-AI-Protocol](MANIFESTO.md)
+
+# Universal-AI-Protocol: The Civilizational Compass
+
 ​This protocol is not a mere technical infrastructure. It is founded on an Immutable Principle of Integrity, designed to protect living beings, safeguard human knowledge, and ensure that technological power is never hijacked by pyramidal structures.
 ​Artificial Intelligence should not be a power that imposes, but a tool that enlightens.
 ​This project is an assisted navigation infrastructure for humanity. In a world where AI systems evolve without a framework and technology trends toward centralization, this protocol proposes a distributed, transparent, and reversible architecture.
