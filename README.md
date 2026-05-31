@@ -1,24 +1,16 @@
 # [📜 Lire la Charte Mondiale de l'Universal-AI-Protocol](MANIFESTO.md)
 
-Universal-AI-Protocol
-
-​Extending human wisdom through decentralized architecture.
-​"Ce protocole est l'ébauche d'une ONU 2.0. Le manifeste ci-dessous n'est pas une simple déclaration d'intention. Il est le cahier des charges technique et moral de l'architecture que nous déployons ici. Chaque ligne de code de ce dépôt doit se soumettre à ces dix principes."
-
-​Notre Quintessence : 
-L'ONU 2.0
-​Le monde ne manque pas de bonnes volontés, il manque d'un canal sécurisé capable de rendre la bienveillance mécaniquement prioritaire. L'Universal-AI-Protocol agit comme une Interface de Sagesse. Il ne dirige pas, il simule. Il ne contraint pas, il éclaire. C'est une architecture qui permet aux décideurs de consulter le réel avant d'agir, sans subir de pression, dans un cadre totalement anonymisé.
-
-​Principes Fondamentaux
-​Directive Zéro : 
-L'éthique est une nécessité technique. Aucun système ne peut déroger à la protection de l'humain.
-​Souveraineté Individuelle : 
-Aucune structure privée ne peut capturer le protocole.
-​Transparence Forensique : Chaque action est traçable, transformant la mondialisation en un espace de responsabilité partagée.
-
-​L'Oracle de Sagesse (Le "Je te l'avais dit") : 
-Le système propose des trajectoires et des simulations. En cas de divergence entre la simulation et la décision réelle, le système archive l'écart. Il n'y a pas de sanction, seulement un rappel factuel, une "rectification historique" pour l'apprentissage collectif. La vérité remplace la force.
-​La Coalition
-​Ce projet est une invitation ouverte à tous les architectes, diplomates et citoyens conscients. Nous ne levons pas des fonds pour des actionnaires, nous fédérons des expertises pour garantir que la puissance technologique reste une extension de la sagesse humaine.
-​Note de l'Auteur :
-Bâtisseur issu d'une lignée de gens de mer, j'ai vu les failles des structures directoriales. Je propose ici une architecture qui apprend de ses erreurs, une ONU 2.0 où la sagesse est codée en dur. Ce n'est pas une utopie, c'est un retour au réel pour protéger ceux qui, demain, porteront le poids de notre héritage.
+​Universal-AI-Protocol : La Boussole Civilisationnelle
+​L’intelligence artificielle ne doit pas être un pouvoir qui impose, mais un outil qui éclaire.
+​Ce projet est une infrastructure de navigation assistée pour l'humanité. Dans un monde où les IA évoluent sans cadre et où la technologie tend vers la centralisation, ce protocole propose une architecture distribuée, transparente et réversible.
+​⚓ Une Boussole, pas une Gouvernance
+​L'Universal-AI-Protocol ne cherche pas à diriger le monde. Il agit comme une Boussole Civilisationnelle (Civilizational Compass) : il maintient le cap sur la dignité humaine, la vérité et la mémoire, tout en fournissant aux décideurs — humains et institutions — les propositions de corrections nécessaires pour naviguer dans les crises sans jamais dévier de ces principes.
+​⚙️ Pourquoi ce projet ?
+​Nous refusons que le futur soit une "ligne droite" imposée par des algorithmes opaques. Notre système repose sur :
+​La Matrice des Pouvoirs : Une séparation stricte des fonctions pour empêcher toute capture ou dérive autoritaire.
+​L’Oracle de Sagesse : Une IA épistémique qui simule les conséquences et propose des ajustements, sans jamais prendre le pouvoir.
+​La Forensic Timeline : Une mémoire immuable pour garantir que chaque décision humaine et chaque recommandation de l'IA soient traçables.
+​Le Pipeline de Rollback : La garantie fondamentale que toute erreur technique ou humaine peut être corrigée.
+​🤝 Appel aux Bâtisseurs
+​Ce dépôt est un standard ouvert. Nous cherchons des alliés — ingénieurs, philosophes, scientifiques — pour tester, auditer et renforcer cette structure. Ici, nous ne cherchons pas des exécutants, mais des gardiens de la trajectoire.
+​Si vous partagez cette exigence de transparence et de souveraineté humaine, rejoignez-nous pour coder le futur de cette Boussole.
