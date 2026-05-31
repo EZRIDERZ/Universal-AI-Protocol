@@ -1,4 +1,6 @@
- 📜 CHARTRE MONDIALE POUR UNE INTELLIGENCE ARTIFICIELLE SOUS GOUVERNANCE HUMAINEFusion du Manifeste IA et du Cadre ONU de la Matrice des Pouvoirs
+ 📜 CHARTRE MONDIALE POUR UNE INTELLIGENCE ARTIFICIELLE SOUS GOUVERNANCE HUMAINE
+
+Fusion du Manifeste IA et du Cadre ONU de la Matrice des Pouvoirs
 
 Préambule
 Les peuples du monde,
