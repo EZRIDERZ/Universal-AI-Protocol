@@ -1,6 +1,7 @@
+[🇫🇷 Version Française](#version-française) | [🇬🇧 English Version](#english-version)
+
 # Universal-AI-Protocol: Global Charter
 
-[🇫🇷 Version Française](#version-française) | [🇬🇧 English Version](#english-version)
 
 ---
 
